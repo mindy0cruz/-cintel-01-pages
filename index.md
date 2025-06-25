@@ -10,8 +10,7 @@ Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
 
 I enjoy watching the WNBA!
 
-![WNBA Logo](https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/WNBA_logo.svg/320px-WNBA_logo.svg.png)
-
+![WNBA](https://thetomagency.com/wp-content/uploads/2017/01/WNBA_Illo_top-1-1600x990.jpg)
 
 Images look like links except with an exclamation directly in front
 
