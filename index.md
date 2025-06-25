@@ -1,4 +1,4 @@
-# My Website Title 
+# Mindy's Title 
 
 My first website using Markdown and GitHub Pages.
 
